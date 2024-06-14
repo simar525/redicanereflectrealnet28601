@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://test02.redicane.com/$1"
+ }
+  ]
+}
